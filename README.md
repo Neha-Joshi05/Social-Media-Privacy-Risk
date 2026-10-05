@@ -9,7 +9,7 @@
 
 A privacy-risk assessment platform where users answer questions about their social media behavior and receive a personalized **Privacy Risk Score**, category-wise analysis, detected weaknesses, and actionable remediation steps.
 
-🔒 **[Live Demo →](https://your-live-url.vercel.app)**
+🔒 **[Live Demo →](https://social-media-privacy-risk.vercel.app/)**
 ⭐ **[GitHub →](https://github.com/Neha-Joshi05/Social-Media-Privacy-Risk.git)**
 
 > ⚠️ **Ethical Notice:** Purely defensive and educational. Uses only self-reported data and synthetic demo profiles. No real profiles are scraped, no accounts are accessed, no real individuals are identified or tracked.
